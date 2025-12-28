@@ -1,4 +1,4 @@
-module github.com/thank243/trafficConsume
+module github.com/Pideo1/trafficConsume
 
 go 1.22.0
 

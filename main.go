@@ -8,9 +8,9 @@ import (
 	"github.com/robfig/cron/v3"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/thank243/trafficConsume/app/client"
-	"github.com/thank243/trafficConsume/common/metahash"
-	"github.com/thank243/trafficConsume/storage"
+	"github.com/Pideo1/trafficConsume/app/client"
+	"github.com/Pideo1/trafficConsume/common/metahash"
+	"github.com/Pideo1/trafficConsume/storage"
 )
 
 func main() {

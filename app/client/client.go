@@ -9,9 +9,9 @@ import (
 	"github.com/anacrolix/torrent/metainfo"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/thank243/trafficConsume/common/fakefile"
-	"github.com/thank243/trafficConsume/infra"
-	"github.com/thank243/trafficConsume/storage"
+	"github.com/Pideo1/trafficConsume/common/fakefile"
+	"github.com/Pideo1/trafficConsume/infra"
+	"github.com/Pideo1/trafficConsume/storage"
 )
 
 func New(cfg *torrent.ClientConfig) (*Client, error) {

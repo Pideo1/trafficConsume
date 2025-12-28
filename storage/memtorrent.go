@@ -8,7 +8,7 @@ import (
 	"github.com/anacrolix/torrent/storage"
 	"github.com/patrickmn/go-cache"
 
-	"github.com/thank243/trafficConsume/common/fakefile"
+	"github.com/Pideo1/trafficConsume/common/fakefile"
 )
 
 func (m *memTorrent) Piece(p metainfo.Piece) storage.PieceImpl {
